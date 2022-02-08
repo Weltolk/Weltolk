@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Weltolk&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Weltolk)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Weltolk&show_icons=true&theme=aura_dark&include_all_commits=true)](https://github.com/Weltolk)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Weltolk&repo=Weltolk.github.io&show_owner=true&theme=dark)](https://github.com/Weltolk/Weltolk.github.io)
 
