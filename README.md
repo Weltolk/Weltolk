@@ -1,9 +1,9 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Weltolk&show_icons=true&theme=github_dark&include_all_commits=true)](https://github.com/Weltolk)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Weltolk&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Weltolk)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Weltolk&repo=Weltolk.github.io&show_owner=true&theme=github_dark)](https://github.com/Weltolk/Weltolk.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Weltolk&repo=Weltolk.github.io&show_owner=true&theme=dark)](https://github.com/Weltolk/Weltolk.github.io)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weltolk&theme=github_dark&layout=compact)](https://github.com/Weltolk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weltolk&theme=dark&layout=compact)](https://github.com/Weltolk)
 
 <!--
 **Weltolk/Weltolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
